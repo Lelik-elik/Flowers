@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10 4" width="10" height="4">
+	<title>Фигура 6</title>
+	<style>
+		.s0 { fill: #f24841 } 
+	</style>
+	<path id="Фигура 6" class="s0" d="m0 1v-1l5 3l5-3v1l-5 3z" />
+</svg>
